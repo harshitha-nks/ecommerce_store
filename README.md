@@ -32,7 +32,7 @@ Build the Docker images for both the Django backend and React frontend. <br>
 Start the containers and run the application.
 
 ### 3. Access the Application
-The Django backend will be accessible at: http://localhost:8000 <br>
+The Django backend will be accessible at: http://localhost:8000/api/products <br>
 The React frontend will be accessible at: http://localhost:3000
 
 ### 4. Stopping the Application
