@@ -1,0 +1,23 @@
+.App {
+  text-align: center;
+}
+
+.content {
+  display: flex;
+  justify-content: space-between;
+  align-items: flex-start;
+  margin: 20px;
+}
+
+.product-list {
+  flex: 3;
+  text-align: left;
+}
+
+.add-product {
+  flex: 1;
+  margin-left: 20px;
+  text-align: left;
+  border-left: 1px solid #ddd;
+  padding-left: 20px;
+}
