@@ -33,7 +33,9 @@ Start the containers and run the application.
 
 ### 3. Access the Application
 The Django backend will be accessible at: http://localhost:8000/api/products <br>
-The React frontend will be accessible at: http://localhost:3000
+The React frontend will be accessible at: http://localhost:3000 <br>
+
+It takes a few minutes for the react webpage to load.
 
 ### 4. Stopping the Application
 To stop the application, press CTRL+C in the terminal where you ran docker-compose up. Then, run the following command to stop and remove the containers:
